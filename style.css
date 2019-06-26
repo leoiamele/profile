@@ -83,5 +83,9 @@ box-shadow: 3px 3px 4px grey;
   .container {
     width: 300px;
   }
+
+  a {
+    margin-left: 15px;
+  }
 }
 
